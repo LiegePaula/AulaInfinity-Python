@@ -1,3 +1,3 @@
-import MeuModulo
-mensagem = MeuModulo.saudacao('Alice')
+import meu_modulo
+mensagem = meu_modulo.saudacao('Alice')
 print(mensagem)
