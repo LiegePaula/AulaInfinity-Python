@@ -29,7 +29,7 @@ def minha_funcao(*args, **kwargs):
 
 minha_funcao('Curriculo', 'Desenvolvimento', nome = 'Alice', idade=25)
 
-variável = lambda parâmetro : comando
+variável = lambda parâmetro : "comando"
 
 
 quadrado = lambda x : x **2
